@@ -1,2 +1,2 @@
-## startingRepository
+# startingRepository
 First repository for study
